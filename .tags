@@ -1,0 +1,146 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	e-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/c7d224bd/
+1.&#8194;题目描述	doc/Chinese_Pos_tag.html	/^<div class="tocitem tocitem1" data-toc-target-elem="h1" data-toc-target="sec--" data-toc-depth="/;"	kind:i	line:317
+1.&#8194;题目描述	doc/Chinese_word_seg.html	/^<div class="tocitem tocitem1" data-toc-target-elem="h1" data-toc-target="section" data-toc-depth/;"	kind:i	line:336
+1.&#8194;题目描述	doc/Sentiment_polarity_detection.html	/^<div class="tocitem tocitem1" data-toc-target-elem="h1" data-toc-target="sec-references" data-to/;"	kind:i	line:318
+2.&#8194;问题分析	doc/Chinese_Pos_tag.html	/^<h2 id="section" class="h1" data-line="17" data-heading-depth="1" style="display:block"><span da/;"	kind:i	line:327
+2.&#8194;问题分析	doc/Chinese_word_seg.html	/^<h2 id="section" class="h1" data-line="21" data-heading-depth="1" style="display:block"><span da/;"	kind:i	line:354
+2.&#8194;问题分析	doc/Sentiment_polarity_detection.html	/^<h2 id="section" class="h1" data-line="26" data-heading-depth="1" style="display:block"><span da/;"	kind:i	line:337
+2.1.&#8194;理由	doc/Chinese_word_seg.html	/^<\/p><h3 id="section" class="h2" data-line="25" data-heading-depth="2" style="display:block"><sp/;"	kind:j	line:356
+2.2.&#8194;优缺点	doc/Chinese_word_seg.html	/^<h3 id="section" class="h2" data-line="31" data-heading-depth="2" style="display:block"><span da/;"	kind:j	line:364
+3.&#8194;HMM模型介绍	doc/Chinese_Pos_tag.html	/^<\/p><h2 id="sec-hmm" class="h1" data-line="23" data-heading-depth="1" style="display:block"><sp/;"	kind:i	line:331
+3.&#8194;HMM模型介绍	doc/Chinese_word_seg.html	/^<h2 id="sec-hmm" class="h1" data-line="36" data-heading-depth="1" style="display:block"><span da/;"	kind:i	line:370
+3.&#8194;实验步骤	doc/Sentiment_polarity_detection.html	/^<\/p><h2 id="section" class="h1" data-line="31" data-heading-depth="1" style="display:block"><sp/;"	kind:i	line:340
+4.&#8194;维特比算法	doc/Chinese_Pos_tag.html	/^<\/p><h2 id="vtb" class="h1" data-line="97" data-heading-depth="1" style="display:block"><span d/;"	kind:i	line:399
+4.&#8194;维特比算法	doc/Chinese_word_seg.html	/^<\/p><h2 id="vtb" class="h1" data-line="111" data-heading-depth="1" style="display:block"><span /;"	kind:i	line:438
+4.&#8194;网络模型详解	doc/Sentiment_polarity_detection.html	/^<h2 id="section" class="h1" data-line="40" data-heading-depth="1" style="display:block"><span da/;"	kind:i	line:354
+4.1.&#8194;简介	doc/Chinese_Pos_tag.html	/^<\/p><h2 id="vtb" class="h1" data-line="97" data-heading-depth="1" style="display:block"><span d/;"	kind:j	line:399
+4.1.&#8194;简介	doc/Chinese_word_seg.html	/^<\/p><h2 id="vtb" class="h1" data-line="111" data-heading-depth="1" style="display:block"><span /;"	kind:j	line:438
+4.1.&#8194;输入层	doc/Sentiment_polarity_detection.html	/^<\/p><h3 id="section" class="h2" data-line="47" data-heading-depth="2" style="display:block"><sp/;"	kind:j	line:359
+4.2.&#8194;卷基层	doc/Sentiment_polarity_detection.html	/^<\/p><h3 id="section" class="h2" data-line="60" data-heading-depth="2" style="display:block"><sp/;"	kind:j	line:373
+4.2.&#8194;针对问题	doc/Chinese_Pos_tag.html	/^<\/p><h3 id="section" class="h2" data-line="103" data-heading-depth="2" style="display:block"><s/;"	kind:j	line:401
+4.2.&#8194;针对问题	doc/Chinese_word_seg.html	/^<\/p><h3 id="section" class="h2" data-line="117" data-heading-depth="2" style="display:block"><s/;"	kind:j	line:440
+4.3.&#8194;池化层	doc/Sentiment_polarity_detection.html	/^<\/p><h3 id="section" class="h2" data-line="70" data-heading-depth="2" style="display:block"><sp/;"	kind:j	line:383
+4.3.&#8194;维特比算法的基础	doc/Chinese_Pos_tag.html	/^<\/p><h3 id="section" class="h2" data-line="107" data-heading-depth="2" style="display:block"><s/;"	kind:j	line:403
+4.3.&#8194;维特比算法的基础	doc/Chinese_word_seg.html	/^<\/p><h3 id="section" class="h2" data-line="121" data-heading-depth="2" style="display:block"><s/;"	kind:j	line:442
+4.4.&#8194;全连接层+Softmax	doc/Sentiment_polarity_detection.html	/^<\/p><h3 id="sec-softmax" class="h2" data-line="78" data-heading-depth="2" style="display:block"/;"	kind:j	line:387
+4.4.&#8194;维特比算法总结	doc/Chinese_Pos_tag.html	/^<h3 id="section" class="h2" data-line="115" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:414
+4.4.&#8194;维特比算法总结	doc/Chinese_word_seg.html	/^<h3 id="section" class="h2" data-line="129" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:453
+4.5.&#8194;分析	doc/Sentiment_polarity_detection.html	/^<\/p><h3 id="section" class="h2" data-line="87" data-heading-depth="2" style="display:block"><sp/;"	kind:j	line:395
+5.&#8194;具体实现	doc/Chinese_Pos_tag.html	/^<h2 id="section" class="h1" data-line="126" data-heading-depth="1" style="display:block"><span d/;"	kind:i	line:428
+5.&#8194;双向最大匹配算法	doc/Chinese_word_seg.html	/^<h2 id="bdmm" class="h1" data-line="139" data-heading-depth="1" style="display:block"><span data/;"	kind:i	line:467
+5.&#8194;我的实现	doc/Sentiment_polarity_detection.html	/^<\/p><h2 id="section" class="h1" data-line="96" data-heading-depth="1" style="display:block"><sp/;"	kind:i	line:403
+5.1.&#8194;整体思路	doc/Chinese_Pos_tag.html	/^<h2 id="section" class="h1" data-line="126" data-heading-depth="1" style="display:block"><span d/;"	kind:j	line:428
+5.1.&#8194;正向最大匹配思想FMM	doc/Chinese_word_seg.html	/^<h2 id="bdmm" class="h1" data-line="139" data-heading-depth="1" style="display:block"><span data/;"	kind:j	line:467
+5.1.&#8194;环境	doc/Sentiment_polarity_detection.html	/^<\/p><h2 id="section" class="h1" data-line="96" data-heading-depth="1" style="display:block"><sp/;"	kind:j	line:403
+5.2.&#8194;数据来源	doc/Sentiment_polarity_detection.html	/^<h3 id="section" class="h2" data-line="104" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:411
+5.2.&#8194;文件结构	doc/Chinese_Pos_tag.html	/^<h3 id="section" class="h2" data-line="159" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:467
+5.2.&#8194;逆向最大匹配算法BMM	doc/Chinese_word_seg.html	/^<h3 id="sec-bmm" class="h2" data-line="146" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:473
+5.3.&#8194;模型简化	doc/Sentiment_polarity_detection.html	/^<h3 id="section" class="h2" data-line="111" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:422
+5.3.&#8194;环境	doc/Chinese_Pos_tag.html	/^Chinese_POS_tag\/data\/ 数据集<\/code><\/pre><h3 id="section" class="h2" data-line="166" data/;"	kind:j	line:470
+5.4.&#8194;实现代码	doc/Chinese_Pos_tag.html	/^<h3 id="section" class="h2" data-line="171" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:476
+6.&#8194;　最终效果如图	doc/Chinese_Pos_tag.html	/^<\/code><\/pre><h2 id="sec--" class="h1" data-line="410" data-heading-depth="1" style="display:b/;"	kind:i	line:710
+6.&#8194;实验结果	doc/Sentiment_polarity_detection.html	/^<h2 id="section" class="h1" data-line="116" data-heading-depth="1" style="display:block"><span d/;"	kind:i	line:430
+6.&#8194;精确率(Pression)与召回率(Recall)计算	doc/Chinese_word_seg.html	/^<h2 id="pr" class="h1" data-line="161" data-heading-depth="1" style="display:block"><span data-l/;"	kind:i	line:490
+6.1.&#8194;具体实现	doc/Chinese_word_seg.html	/^<\/p><h3 id="section" class="h2" data-line="170" data-heading-depth="2" style="display:block"><s/;"	kind:j	line:500
+6.2.&#8194;解释	doc/Chinese_word_seg.html	/^                seg_len+=len(seg[j])<\/code><\/pre><h3 id="section" class="h2" data-line="197" d/;"	kind:j	line:522
+7.&#8194;HMM具体实现	doc/Chinese_word_seg.html	/^<h2 id="sec-hmm" class="h1" data-line="208" data-heading-depth="1" style="display:block"><span d/;"	kind:i	line:539
+7.1.&#8194;整体思路	doc/Chinese_word_seg.html	/^<h2 id="sec-hmm" class="h1" data-line="208" data-heading-depth="1" style="display:block"><span d/;"	kind:j	line:539
+7.2.&#8194;文件结构	doc/Chinese_word_seg.html	/^<h3 id="section" class="h2" data-line="239" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:576
+7.3.&#8194;环境	doc/Chinese_word_seg.html	/^Chinese_word_seg\/Hmmseg\/output.txt 分词输出<\/code><\/pre><h3 id="section" class="h2" data/;"	kind:j	line:580
+7.4.&#8194;实现代码	doc/Chinese_word_seg.html	/^<h3 id="section" class="h2" data-line="252" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:586
+7.5.&#8194;　最终效果	doc/Chinese_word_seg.html	/^    predict()<\/code><\/pre><h3 id="sec--" class="h2" data-line="516" data-heading-depth="2" sty/;"	kind:j	line:845
+8.&#8194;双向最大匹配具体实现	doc/Chinese_word_seg.html	/^<\/p><h2 id="section" class="h1" data-line="519" data-heading-depth="1" style="display:block"><s/;"	kind:i	line:847
+8.1.&#8194;整体思路	doc/Chinese_word_seg.html	/^<\/p><h2 id="section" class="h1" data-line="519" data-heading-depth="1" style="display:block"><s/;"	kind:j	line:847
+8.2.&#8194;文件结构	doc/Chinese_word_seg.html	/^<h3 id="section" class="h2" data-line="533" data-heading-depth="2" style="display:block"><span d/;"	kind:j	line:863
+8.3.&#8194;实现代码	doc/Chinese_word_seg.html	/^Chinese_word_seg\/BDMM\/output.txt 分词输出<\/code><\/pre><h3 id="section" class="h2" data-l/;"	kind:j	line:867
+8.4.&#8194;最终效果	doc/Chinese_word_seg.html	/^predict(<span style="color:maroon">&#39;<\/span><span style="color:maroon">test.txt<\/span><span/;"	kind:j	line:1026
+9.&#8194;结果分析	doc/Chinese_word_seg.html	/^<\/p><h2 id="section" class="h1" data-line="708" data-heading-depth="1" style="display:block"><s/;"	kind:i	line:1028
+Contents	doc/Chinese_Pos_tag.html	/^<nav class="toc toc-contents"><h2 id="sec-contents" class="clearnum h1 heading-contents" data-he/;"	kind:i	line:300
+Contents	doc/Chinese_word_seg.html	/^<nav class="toc toc-contents"><h2 id="sec-contents" class="clearnum h1 heading-contents" data-he/;"	kind:i	line:300
+Contents	doc/Sentiment_polarity_detection.html	/^<nav class="toc toc-contents"><h2 id="sec-contents" class="clearnum h1 heading-contents" data-he/;"	kind:i	line:300
+Dic_Array	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def Dic_Array(array_b):$/;"	kind:f	line:65	access:public	signature:(array_b)
+FLAGS	ex3_Sentiment_polarity_detection/eval.py	/^FLAGS = tf.flags.FLAGS$/;"	kind:v	line:30	access:public
+FLAGS	ex3_Sentiment_polarity_detection/train.py	/^FLAGS = tf.flags.FLAGS$/;"	kind:v	line:37	access:public
+HMMwordseg	ex1_Chinese_word_seg/README.md	/^# HMMwordseg$/;"	kind:c	line:1
+Init_Array	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def Init_Array():$/;"	kind:f	line:17	access:public	signature:()
+NLP_Class	README.md	/^# NLP_Class$/;"	kind:c	line:1
+Prob_Array	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def Prob_Array():$/;"	kind:f	line:44	access:public	signature:()
+References	doc/Sentiment_polarity_detection.html	/^<div class="bibl" data-line="123;out\/Sentiment_polarity_detection-bib.bbl.mdk:1" style="bbl-fil/;"	kind:i	line:435
+STATES	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^STATES = ['B', 'M', 'E', 'S']$/;"	kind:v	line:7	access:public
+TextCNN	ex3_Sentiment_polarity_detection/text_cnn.py	/^class TextCNN(object):$/;"	kind:c	line:5	inherits:object	access:public
+TextCNN.__init__	ex3_Sentiment_polarity_detection/text_cnn.py	/^    def __init__($/;"	kind:m	line:10	class:TextCNN	access:public	signature:( self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0)
+Viterbi	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def Viterbi(sentence,array_pi,array_a,array_b):$/;"	kind:f	line:92	access:public	signature:(sentence,array_pi,array_a,array_b)
+__init__	ex3_Sentiment_polarity_detection/text_cnn.py	/^    def __init__($/;"	kind:m	line:10	class:TextCNN	access:public	signature:( self, sequence_length, num_classes, vocab_size, embedding_size, filter_sizes, num_filters, l2_reg_lambda=0.0)
+all_predictions	ex3_Sentiment_polarity_detection/eval.py	/^            all_predictions = np.concatenate([all_predictions, batch_predictions])$/;"	kind:v	line:82	access:public
+all_predictions	ex3_Sentiment_polarity_detection/eval.py	/^        all_predictions = []$/;"	kind:v	line:78	access:public
+array_A	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^array_A = {}    #状态转移概率矩阵$/;"	kind:v	line:8	access:public
+array_B	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^array_B = {}    #发射概率矩阵$/;"	kind:v	line:9	access:public
+array_E	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^array_E = {}    #测试集存在的字符，但在训练集中不存在，发射概率矩阵$/;"	kind:v	line:10	access:public
+array_Pi	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^array_Pi = {}   #初始状态分布$/;"	kind:v	line:11	access:public
+batch_iter	ex3_Sentiment_polarity_detection/data_helpers.py	/^def batch_iter(data, batch_size, num_epochs, shuffle=True):$/;"	kind:f	line:46	access:public	signature:(data, batch_size, num_epochs, shuffle=True)
+batch_predictions	ex3_Sentiment_polarity_detection/eval.py	/^            batch_predictions = sess.run(predictions, {input_x: x_test_batch, dropout_keep_prob:/;"	kind:v	line:81	access:public
+batches	ex3_Sentiment_polarity_detection/eval.py	/^        batches = data_helpers.batch_iter(list(x_test), FLAGS.batch_size, 1, shuffle=False)$/;"	kind:v	line:75	access:public
+checkpoint_file	ex3_Sentiment_polarity_detection/eval.py	/^checkpoint_file = tf.train.latest_checkpoint(FLAGS.checkpoint_dir)$/;"	kind:v	line:54	access:public
+clean_str	ex3_Sentiment_polarity_detection/data_helpers.py	/^def clean_str(string):$/;"	kind:f	line:5	access:public	signature:(string)
+correct_predictions	ex3_Sentiment_polarity_detection/eval.py	/^    correct_predictions = float(sum(all_predictions == y_test))$/;"	kind:v	line:86	access:public
+count_dic	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^count_dic = {}  #‘B,M,E,S’每个状态在训练集中出现的次数$/;"	kind:v	line:13	access:public
+dev_step	ex3_Sentiment_polarity_detection/train.py	/^            def dev_step(x_batch, y_batch, writer=None):$/;"	kind:f	line:158	function:train	file:	access:private	signature:(x_batch, y_batch, writer=None)
+dist_tag	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def dist_tag():$/;"	kind:f	line:73	access:public	signature:()
+dist_word	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def dist_word(word0,word1,word2,array_b):$/;"	kind:f	line:83	access:public	signature:(word0,word1,word2,array_b)
+dropout_keep_prob	ex3_Sentiment_polarity_detection/eval.py	/^        dropout_keep_prob = graph.get_operation_by_name("dropout_keep_prob").outputs[0]$/;"	kind:v	line:69	access:public
+get_tag	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def get_tag(word):$/;"	kind:f	line:29	access:public	signature:(word)
+graph	ex3_Sentiment_polarity_detection/eval.py	/^graph = tf.Graph()$/;"	kind:v	line:55	access:public
+input_x	ex3_Sentiment_polarity_detection/eval.py	/^        input_x = graph.get_operation_by_name("input_x").outputs[0]$/;"	kind:v	line:67	access:public
+line	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        line = line.split(' ')$/;"	kind:v	line:221	access:public
+line	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        line = line.strip()$/;"	kind:v	line:210	access:public
+line	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        line = line.strip()$/;"	kind:v	line:259	access:public
+line_num	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^line_num = 0    #训练集语句数量$/;"	kind:v	line:14	access:public
+line_state	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        line_state = []     #这句话的状态序列$/;"	kind:v	line:223	access:public
+list	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^            list = list + seg[i] + ' '$/;"	kind:v	line:266	access:public
+list	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        list = ''$/;"	kind:v	line:264	access:public
+load_data_and_labels	ex3_Sentiment_polarity_detection/data_helpers.py	/^def load_data_and_labels(positive_data_file, negative_data_file):$/;"	kind:f	line:26	access:public	signature:(positive_data_file, negative_data_file)
+main	ex3_Sentiment_polarity_detection/train.py	/^def main(argv=None):$/;"	kind:f	line:191	access:public	signature:(argv=None)
+np	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^import numpy as np$/;"	kind:I	line:4	access:public
+np	ex3_Sentiment_polarity_detection/data_helpers.py	/^import numpy as np$/;"	kind:I	line:1	access:public
+np	ex3_Sentiment_polarity_detection/eval.py	/^import numpy as np$/;"	kind:I	line:4	access:public
+np	ex3_Sentiment_polarity_detection/text_cnn.py	/^import numpy as np$/;"	kind:I	line:2	access:public
+np	ex3_Sentiment_polarity_detection/train.py	/^import numpy as np$/;"	kind:I	line:4	access:public
+out_path	ex3_Sentiment_polarity_detection/eval.py	/^out_path = os.path.join(FLAGS.checkpoint_dir, "..", "prediction.csv")$/;"	kind:v	line:92	access:public
+output	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        output = output + list + '\\n'$/;"	kind:v	line:268	access:public
+output	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^    output = ''$/;"	kind:v	line:256	access:public
+outputfile	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^    outputfile = open('output.txt', mode='w', encoding='utf-8')$/;"	kind:v	line:270	access:public
+pd	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^import pandas as pd$/;"	kind:I	line:1	access:public
+predictions	ex3_Sentiment_polarity_detection/eval.py	/^        predictions = graph.get_operation_by_name("output\/predictions").outputs[0]$/;"	kind:v	line:72	access:public
+predictions_human_readable	ex3_Sentiment_polarity_detection/eval.py	/^predictions_human_readable = np.column_stack((np.array(x_raw), all_predictions))$/;"	kind:v	line:91	access:public
+preprocess	ex3_Sentiment_polarity_detection/train.py	/^def preprocess():$/;"	kind:f	line:44	access:public	signature:()
+saver	ex3_Sentiment_polarity_detection/eval.py	/^        saver = tf.train.import_meta_graph("{}.meta".format(checkpoint_file))$/;"	kind:v	line:63	access:public
+seg	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        seg = tag_seg(line, tag)$/;"	kind:v	line:262	access:public
+sess	ex3_Sentiment_polarity_detection/eval.py	/^    sess = tf.Session(config=session_conf)$/;"	kind:v	line:60	access:public
+session_conf	ex3_Sentiment_polarity_detection/eval.py	/^    session_conf = tf.ConfigProto($/;"	kind:v	line:57	access:public
+tag	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        tag = Viterbi(line, array_Pi, array_A, array_B)$/;"	kind:v	line:260	access:public
+tag_seg	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^def tag_seg(sentence,tag):$/;"	kind:f	line:161	access:public	signature:(sentence,tag)
+testset	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^    testset = open('CTBtestingset.txt', encoding='utf-8')       #读取测试集$/;"	kind:v	line:204	access:public
+tf	ex3_Sentiment_polarity_detection/eval.py	/^import tensorflow as tf$/;"	kind:I	line:3	access:public
+tf	ex3_Sentiment_polarity_detection/text_cnn.py	/^import tensorflow as tf$/;"	kind:I	line:1	access:public
+tf	ex3_Sentiment_polarity_detection/train.py	/^import tensorflow as tf$/;"	kind:I	line:3	access:public
+train	ex3_Sentiment_polarity_detection/train.py	/^def train(x_train, y_train, vocab_processor, x_dev, y_dev):$/;"	kind:f	line:75	access:public	signature:(x_train, y_train, vocab_processor, x_dev, y_dev)
+train.dev_step	ex3_Sentiment_polarity_detection/train.py	/^            def dev_step(x_batch, y_batch, writer=None):$/;"	kind:f	line:158	function:train	file:	access:private	signature:(x_batch, y_batch, writer=None)
+train.train_step	ex3_Sentiment_polarity_detection/train.py	/^            def train_step(x_batch, y_batch):$/;"	kind:f	line:142	function:train	file:	access:private	signature:(x_batch, y_batch)
+train_step	ex3_Sentiment_polarity_detection/train.py	/^            def train_step(x_batch, y_batch):$/;"	kind:f	line:142	function:train	file:	access:private	signature:(x_batch, y_batch)
+trainset	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^    trainset = open('CTBtrainingset.txt', encoding='utf-8')     #读取训练集$/;"	kind:v	line:203	access:public
+vocab_path	ex3_Sentiment_polarity_detection/eval.py	/^vocab_path = os.path.join(FLAGS.checkpoint_dir, "..", "vocab")$/;"	kind:v	line:46	access:public
+vocab_processor	ex3_Sentiment_polarity_detection/eval.py	/^vocab_processor = learn.preprocessing.VocabularyProcessor.restore(vocab_path)$/;"	kind:v	line:47	access:public
+word_list	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        word_list = []$/;"	kind:v	line:214	access:public
+word_set	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^        word_set = word_set | set(word_list)    #训练集所有字的集合$/;"	kind:v	line:219	access:public
+word_set	ex1_Chinese_word_seg/HMMseg/hmmwordseg.py	/^word_set = set()    #训练数据集中所有字的集合$/;"	kind:v	line:12	access:public
+x_raw	ex3_Sentiment_polarity_detection/eval.py	/^    x_raw, y_test = data_helpers.load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_d/;"	kind:v	line:39	access:public
+x_test	ex3_Sentiment_polarity_detection/eval.py	/^x_test = np.array(list(vocab_processor.transform(x_raw)))$/;"	kind:v	line:48	access:public
+y_test	ex3_Sentiment_polarity_detection/eval.py	/^    x_raw, y_test = data_helpers.load_data_and_labels(FLAGS.positive_data_file, FLAGS.negative_d/;"	kind:v	line:39	access:public
+y_test	ex3_Sentiment_polarity_detection/eval.py	/^    y_test = [1, 0]$/;"	kind:v	line:43	access:public
+y_test	ex3_Sentiment_polarity_detection/eval.py	/^    y_test = np.argmax(y_test, axis=1)$/;"	kind:v	line:40	access:public
